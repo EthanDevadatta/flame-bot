@@ -4,7 +4,8 @@
   Built with Discord.js (v13), Node.js, and MongoDB. Includes Giveaways, Economy, Leveling, Server Backup, Reaction Roles, Tickets, AI Chatbot, and more.
 </p>
 
----
+## ⚠️ Project was made in 2020
+
 
 ## 📖 Table of Contents
 - [📌 Overview](#-overview)
